@@ -12,6 +12,7 @@ def main():
     print("add line sixth")
     print("add line seventh")
     print("add line eighth")
+    print("add line nineth")
 
 if __name__ == "__main__":
     main()
