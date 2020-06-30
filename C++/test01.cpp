@@ -2,6 +2,9 @@
 
 int main()
 {
-    printf("Hello, Git!");
-    return 0;
+    int i;
+    for(i=0;i<5;i++)
+    {
+        printf("%d ", i);
+    }
 }
